@@ -1,3 +1,9 @@
+### This is a Chat App created using ReactJs and Firebase. 
+## The main feature of this chat app is that is uses a Google Authentication feature through which you can login using your Gmail.
+
+The project can be accessed here [ChatRoom Services](https://my-chat-room-apps.web.app)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
